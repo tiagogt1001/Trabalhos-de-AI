@@ -17,7 +17,7 @@ def calculadora():
     lista_contas = []
 
     while True:
-                num1 = int(input("digite o primeiro numero: "))
+        num1 = int(input("digite o primeiro numero: "))
         num2 = int(input("digite o segundo numero: "))
         op = input("Digite a operação: ")
 
