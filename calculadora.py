@@ -40,7 +40,7 @@ def calculadora():
             lista_contas.append(str(num1) + "-" + str(num2) + "=" + str(result))
         else :
             print("Nem tu sabes quanto é, como é que é suposto eu saber?")
-            print(lista_contas)
+        print(lista_contas)
 
 calculadora()
 
